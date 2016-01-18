@@ -24,6 +24,6 @@ version:          0.1.0
 #github:
 #  repo:           https://github.com/poole/lanyon
 
-page_list:
-  About: ['/about']
-  Archive: ['/archive']
+pages_list:
+  About: '/about'
+  Archive: '/archive'
