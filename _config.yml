@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            ysjin
+tagline:          Yongseok Jin's blog
+description:      '진용석의 블로그'
+url:              http://ysjin.github.io
+
+author:
+  name:           Yongseok Jin
+  email:          yongseok.jin@gmail.com
+#  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          0.1.0
+
+#github:
+#  repo:           https://github.com/poole/lanyon
+
+page_list:
+  About: ['/about']
+  Archive: ['/archive']
