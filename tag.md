@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archive
+title: Tag
 ---
 ### Tags
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
