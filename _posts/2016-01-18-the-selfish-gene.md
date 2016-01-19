@@ -1,7 +1,8 @@
 ---
 layout:page
 title: the selfish gene: 30th anniversary edition
-publish: false
+published: false
+tag: book
 comments: true
 ---
 
