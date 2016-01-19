@@ -1,8 +1,8 @@
 ---
 layout: post
-title: the selfish gene: 30th anniversary edition
+title: the selfish gene
 published: false
-tag: book
+tags: book
 comments: true
 ---
 
