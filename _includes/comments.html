@@ -7,6 +7,11 @@
   /*
   var disqus_identifier = "{{ site.disqusid }}{{ page.url | replace:'index.html','' }}";
   */
+  var disqus_config = function () {
+    this.page.url = '{{ page.url | prepend: site.disqus_url' }};
+    this.page.identifier = '{{ page.url | prepend: site.disqus_url }}';
+    //this.page.title = 'a unique title for each page where Disqus is present';
+  };
 
   /* * * DON'T EDIT BELOW THIS LINE * * */
   (function() {
