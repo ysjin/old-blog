@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Martian
-publishred: false
+published: false
 tags: book
 comments: true
 ---
