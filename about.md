@@ -12,5 +12,6 @@ comments: True
 ### Books I've read 읽은 책들
 {% for post in site.posts %}
   {% if post.tags == "book" %} [ {{ post.title }} ]({{ post.url }}) {% endif %}
+  {{post.tags}}
 {% endfor %}
 
