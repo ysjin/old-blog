@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Yongseok's Blog 
 tagline:          '진용석의 블로그'
-description:      Notes from ysjin
+description:      Writting in plain English and Korean
 url:              http://ysjin.github.io
 
 author:
@@ -22,8 +22,8 @@ paginate:         5
 version:          0.1.0
 
 #github:
-#  repo:           https://github.com/poole/lanyon
+#  repo:           https://github.com/
 
-pages_list:
-  About: '/about'
-  Archive: '/archive'
+#pages_list:
+#  About: '/about'
+#  Archive: '/archive'
