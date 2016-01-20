@@ -4,13 +4,13 @@ title: About
 comments: True
 ---
 
-## Under Construction 
+내가 알고 즐기는 것들을 친구들에게 소개하고 나누려고 합니다.
 
 ### About me
-개인정보를 너무 많이 담지 않은 내 소개가 뭘까?
+
 
 ### Books I've read 읽은 책들
 {% for post in site.posts %}
-  {% if post.tags == "book" %} [ {{ post.title }} ]({{ post.url }}) {% endif %} <!-- TODO: does't working -->
+  {% if post.tags == "book" %} [ {{ post.title }} ]({{ post.url }}) {% endif %}
 {% endfor %}
 
