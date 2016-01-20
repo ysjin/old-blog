@@ -9,7 +9,7 @@
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="/"><i class="fa fa-home fa-2x"></i>&nbsp; Home</a>
+    <a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="/"><i class="fa fa-home fa-fw"></i>&nbsp; Home</a>
     
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
@@ -21,9 +21,9 @@
       {% if node.title != null %}
         {% if node.layout == "page" %}
           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">
-            {% if node.title == "Tags" %} <i class="fa fa-tags fa-2x"></i>{% endif %}
-            {% if node.title == "Archive" %} <i class="fa fa-archive fa-2x"></i>{% endif %}
-            {% if node.title == "About" %} <i class="fa fa-paw fa-2x"></i>{% endif %}
+            {% if node.title == "Tags" %} <i class="fa fa-tags fa-fw"></i>{% endif %}
+            {% if node.title == "Archive" %} <i class="fa fa-archive fa-fw"></i>{% endif %}
+            {% if node.title == "About" %} <i class="fa fa-paw fa-fw"></i>{% endif %}
             &nbsp; {{ node.title }}
           </a>
         {% endif %}
