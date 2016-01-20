@@ -21,7 +21,7 @@
       {% if node.title != null %}
         {% if node.layout == "page" %}
           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">
-            {% if page.title == "tags" %} <i class="fa fa-tags"></i>{% endif %}
+            {% if page.title == "Tags" %} <i class="fa fa-tags fa-2x"></i>{% endif %}
             {{ node.title }}
           </a>
         {% endif %}
