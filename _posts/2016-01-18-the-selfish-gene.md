@@ -1,9 +1,9 @@
 ---
-layout: post
-title: the selfish gene
-published: false
-tags: book
-comments: true
+layout:post
+title:the selfish gene
+published:false
+tags:book
+comments:true
 ---
 
 ## 내가 세상을 바라보는 눈
