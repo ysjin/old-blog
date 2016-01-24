@@ -34,8 +34,10 @@ Instead, link the Ruby commands to Windows Ruby's.)
 Install a few more packages which listed [here](http://ryayon.github.io/cygwin/Install-Jekyll-on-Windows/).
 
 3. Install Jekyll and test
+{% highlight bash %}
 $ gem install jekyll
 $ jekyll 
+{% endhighlight %}
 Read what the message say, it might give error message which leads to a log file. Read the log file and install more packages if there are missing packages for Jekyll.
 
 4. Now everything is same as in non-Cygwin environments
