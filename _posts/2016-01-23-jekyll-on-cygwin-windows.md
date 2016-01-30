@@ -26,12 +26,13 @@ Before you read further, please make sure that you also prefer Cygwin. If you do
 
 ## Steps to install Jekyll on Cygwin
 1. Install [Cygwin](http://cygwin.org/) 
-  Install minimum and default set of packages.
+    Install minimum and default set of packages.
 
 2. Install Ruby, Make, g++, libraries on Cygwin
-  (Please, check whether you already have Ruby in your Windows and if you do, then don't install it on Cygwin.
-  Instead, link the Ruby commands to Windows Ruby's.)
-  Install a few more packages which listed [here](http://ryayon.github.io/cygwin/Install-Jekyll-on-Windows/).
+
+    Please, check whether you already have Ruby in your Windows and if you do, then don't install it on Cygwin.
+    Instead, link the Ruby commands to Windows Ruby's.
+    Install a few more packages which listed [here](http://ryayon.github.io/cygwin/Install-Jekyll-on-Windows/).
 
 3. Install Jekyll and test
 
@@ -41,7 +42,9 @@ Before you read further, please make sure that you also prefer Cygwin. If you do
     ```
     Read what the message say, it might give error message which leads to a log file. Read the log file and install more packages if there are missing packages for Jekyll.
 
-4. Now Jekyll is ready to use. All the next steps are same as in Linux or MacOS.
+4. Now Jekyll is ready to use. 
+
+  All the next steps are same as in Linux or MacOS.
   That's why I prefer Cygwin. And again, I've had no issues.
   The last step is to visit [Jekyll documentation site](https://jekyllrb.com/docs/home/). 
 
