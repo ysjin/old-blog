@@ -26,7 +26,8 @@ Before you read further, please make sure that you also prefer Cygwin. If you do
 
 ## Steps to install Jekyll on Cygwin
 1. Install [Cygwin](http://cygwin.org/) 
-    Install minimum and default set of packages.
+
+    Install minimum and default set of packages. Cygwin is huge and you definitely don't want to install full packages.
 
 2. Install Ruby, Make, g++, libraries on Cygwin
 
@@ -40,11 +41,12 @@ Before you read further, please make sure that you also prefer Cygwin. If you do
     $ gem install jekyll
     $ jekyll 
     ```
-    Read what the message say, it might give error message which leads to a log file. Read the log file and install more packages if there are missing packages for Jekyll.
+    Read what the message say, it might give error message which leads to a log file. 
+    Read the log file and install more packages if what it says.
 
 4. Now Jekyll is ready to use. 
 
-  All the next steps are same as in Linux or MacOS.
-  That's why I prefer Cygwin. And again, I've had no issues.
-  The last step is to visit [Jekyll documentation site](https://jekyllrb.com/docs/home/). 
+    All the next steps are same as in Linux or MacOS.
+    That's why I prefer Cygwin. And again, I've had no issues.
+    The last step is to visit [Jekyll documentation site](https://jekyllrb.com/docs/home/). 
 
