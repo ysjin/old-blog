@@ -22,7 +22,7 @@ Before you read further, please make sure that you also prefer Cygwin. If you do
 윈도우즈는 공식적으로 지원이 안되는데, 그래도 지킬을 돌리는 건 가능하다. (그리고 지금까지 별문제 없더라.)
 [여기서](http://jekyll-windows.juthilo.com/) 어떻게 하는지 찾아보면 된다.
 난 Cygwin 사용하는게 좋아서, 그렇게 해서 성공했고, 어떻게 설치하는지에 대한 방법을 공유하려고 한다.
-더 읽어보시기 전에 Cygwin을 더 선호하시는지 확실히 해두는게 좋다. 혹시 그게 뭔지도 모른다면 그냥 위에 링크된 방법을 따라하는게 좋다. 
+더 읽어보시기 전에 Cygwin을 더 선호하시는지 확실히 해두는게 좋다. 혹시 Cygwin이 뭔지도 모른다면 괜히 고생하지 말고 위에 링크된 방법을 따라하는게 좋다. 
 
 ## Steps to install Jekyll on Cygwin
 1. Install [Cygwin](http://cygwin.org/) 
