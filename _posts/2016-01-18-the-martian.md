@@ -2,7 +2,10 @@
 layout: post
 title: The Martian
 published: false
-tags: book
+category: book
+book-title: The Martian
+book-author: Andy Weir
+
 comments: true
 ---
 

@@ -6,7 +6,14 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="entry-tags">{% for tag in page.tags %}<a href="{{ site.url }}/tags.html#{{ tag | cgi_escape }}" title="Pages tagged {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %} &bull; {% endunless %}{% endfor %}</span>
   <span class="post-date">{{ page.date | date_to_string }}</span>
-  {{ content }}
+  {% if page.category == "book" %} 
+  <h3> {{ page.book-title }} </h3> <h4> by {{page.book-author}} </h4>   
+    <a class="sidebar-nav-item" href="{{ page.amazon-link }}">
+      <i class="fa fa-amazon fa-fw"></i>
+    </a>
+  </h4>
+  {% endif %}
+    {{ content }}
   {% if page.comments %}<div id="disqus_thread"></div>{% endif %}
 </div>
 
