@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Boomerang
-published: false
+published: true
 tags: book
 comments: true
 ---
