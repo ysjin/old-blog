@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Boomerang
+title: Boomerang - travels in the new third world
 published: true
 tags: book
 comments: true
 ---
 
-# Boomerang - travels in the new third world
-  * <i class="fa fa-amazon fa-lg"></i> [Amazon] (http://www.amazon.com/gp/product/B005CRQ2OE/ref=dp-kindle-redirect?ie=UTF8&btkr=1)
+* <i class="fa fa-amazon fa-lg"></i> [Amazon] (http://www.amazon.com/gp/product/B005CRQ2OE/ref=dp-kindle-redirect?ie=UTF8&btkr=1)
 
 ## 책에서 만나 낯선 나라
   '꽃보다 청춘'에서 우리에게 낯선 나라이던 아이슬란드가 나오고, 곧이어 여러 포털 기사들이 아이슬란드를 다루고 있다.
@@ -47,15 +46,5 @@ comments: true
   
 ## 그리스 아일랜드
   언젠가 쓰겠지?
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   
   
