@@ -6,6 +6,9 @@ tags: book
 comments: true
 ---
 
+# Boomerang - travels in the new third world
+  * [Amazon] (http://www.amazon.com/gp/product/B005CRQ2OE/ref=dp-kindle-redirect?ie=UTF8&btkr=1)
+
 ## 책에서 만나 낯선 나라
   '꽃보다 청춘'에서 우리에게 낯선 나라이던 아이슬란드가 나오고, 곧이어 여러 포털 기사들이 아이슬란드를 다루고 있다.
   이 책을 보기 전까지는 나에게 아이슬란드는 교과서에서 본 '화산과 온천이 있는 섬나라'가 전부인 미지의 곳이었다. 
