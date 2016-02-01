@@ -20,6 +20,9 @@ This site is built using [Jekyll](http://jekyllrb.com/) with [Lanyon theme](http
 
 All the source code for this site is availble in [my github](https://github.com/ysjin/ysjin.github.io). 
 
+#### references 
+* [Setting Up an Elegant Blog with Github Pages, Jekyll, and Poole](http://kylestratis.com/2015/05/05/blog-setup-pt2/)
+
 
 ### books I've read 읽은 책들
 {% for post in site.posts %}

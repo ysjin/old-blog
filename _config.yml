@@ -6,9 +6,9 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Yongseok's Blog 
+title:            ysjin.github.io
 tagline:          '진용석의 블로그'
-description:      Writting in plain English and Korean
+description:      ysjin's blog
 url:              http://ysjin.github.io
 
 author:

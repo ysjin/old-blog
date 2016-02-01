@@ -7,11 +7,10 @@ layout: default
   <span class="entry-tags">{% for tag in page.tags %}<a href="{{ site.url }}/tags.html#{{ tag | cgi_escape }}" title="Pages tagged {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %} &bull; {% endunless %}{% endfor %}</span>
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {% if page.category == "book" %} 
-  <h3> {{ page.book-title }} </h3> <h4> by {{page.book-author}} </h4>   
-    <a class="sidebar-nav-item" href="{{ page.amazon-link }}">
-      <i class="fa fa-amazon fa-fw"></i>
-    </a>
-  </h4>
+  <h3 class="book-title"> {{ page.book-title }} </h3> 
+  <h4 class="book-author"> by {{page.book-author}} </h4>   
+  <a href="{{ page.amazon-link }}"> <i class="fa fa-amazon fa-lg"></i> </a>
+  <a href="{{ page.wikipedia-link }}"> <i class="fa fa-wikipedia-w fa-lg"></i> </a>
   {% endif %}
     {{ content }}
   {% if page.comments %}<div id="disqus_thread"></div>{% endif %}
