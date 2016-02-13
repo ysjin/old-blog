@@ -13,9 +13,9 @@ title: Opening a Blog
 
 ### How to build this blog
 여러 블로그를 참고해서 만들었다. 어느 블로그가 잘 정리해 놓았는지만 찾아서 링크를 걸어둔다.
-http://randyridenour.net/2015/01/18/my-new-jekyll-site/
-http://joshualande.com/jekyll-github-pages-poole/
-http://blog.lanyonm.org/articles/2013/11/21/alphabetize-jekyll-page-tags-pure-liquid.html
-http://patricksteadman.ca/2014/08/04/lanyonsetup/
-http://blog.lanyonm.org/
+* http://randyridenour.net/2015/01/18/my-new-jekyll-site/
+* http://joshualande.com/jekyll-github-pages-poole/
+* http://blog.lanyonm.org/articles/2013/11/21/alphabetize-jekyll-page-tags-pure-liquid.html
+* http://patricksteadman.ca/2014/08/04/lanyonsetup/
+* http://blog.lanyonm.org/
 
