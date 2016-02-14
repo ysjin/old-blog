@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 아이슬란드, 아일랜드, 그리스 이야기
+title: 아이슬란드, 아일랜드, 그리스, 독일에서 있었던 일
 published: true
 category: book
 book-title: Boomerang - travels in the new third world
