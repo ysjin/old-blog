@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+##markdown:         redcarpet
 pygments:         true
 
 # Permalinks
@@ -16,10 +16,10 @@ author:
   email:          yongseok.jin@gmail.com
 #  url:            https://twitter.com/mdo
 
-paginate:         5
+paginate:         3
 
 # Custom vars
-version:          0.1.0
+version:          1.0
 
 #github:
 #  repo:           https://github.com/
